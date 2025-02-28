@@ -1,3 +1,4 @@
 /data
 cat_dog_data.zip
+*.keras
 .DS_Store
